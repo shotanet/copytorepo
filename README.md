@@ -51,5 +51,4 @@ your-project/
 | 設定値         | `shotanet/tools-shotanet.info`  |
 
 ---
-
-必要に応じてこのドキュメントを `.github/README.md` や `docs/deploy.md` に保存しておくと便利です。
+このワークフローを稼働させる際はプロジェクトのdistフォルダをコミットに含める必要があります。yamlを調整してワークフロー内でビルドも行うという手順を追加してもよいかもしれません
